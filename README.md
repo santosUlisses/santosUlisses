@@ -10,7 +10,7 @@
   <img align="center" alt="postgres" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
   <img align="center" alt="mysql" height="60" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="mysql" height="60" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
-  <img align="center" alt="mysql" height="100px" width="40" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="mysql" height="60" width="40" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="mysql" height="60" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor">
 
   

@@ -18,6 +18,12 @@
 </div>
 <hr>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosUlisses&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santosUlisses&layout=compact&theme=dark)
+
+
+
 ### Contatos 
 
 <br>
@@ -25,3 +31,8 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/ulisses-santos-t3/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ulisses.gc@hotmail.com)
+
+
+
+
+

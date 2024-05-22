@@ -12,9 +12,9 @@
   <img align="center" alt="django" height="70" width="40" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor">
   <img align="center" alt="postgres" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
   <img align="center" alt="mysql" height="60" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="mysql" height="60" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
-  <img align="center" alt="mysql" height="60" width="40" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="mysql" height="60" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="git" height="60" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
+  <img align="center" alt="node" height="60" width="40" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="react" height="60" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor">
 </div>
 <hr>
 

@@ -12,8 +12,6 @@
   <img align="center" alt="mysql" height="60" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
   <img align="center" alt="mysql" height="60" width="40" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="mysql" height="60" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor">
-
-  
 </div>
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white

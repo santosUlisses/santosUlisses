@@ -13,7 +13,7 @@
   <img align="center" alt="postgres" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
   <img align="center" alt="mysql" height="60" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="git" height="60" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
-  <img align="center" alt="node" height="60" width="40" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="node" height="60" width="40" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="react" height="60" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor">
 </div>
 <hr>

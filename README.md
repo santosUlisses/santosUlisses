@@ -1,7 +1,7 @@
 ### Olá, bem vindo 🫡
 
 
-### Possuo conhecimento nas seguintes tecnologias
+### Tenho conhecimento nas seguintes tecnologias
 <hr>
 
 <div style="display: inline_block"><br>
